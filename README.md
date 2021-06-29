@@ -1,4 +1,7 @@
 # URL Shortener Microservice
+
+[![Run on Repl.it](https://repl.it/badge/github/nadiemedicejose/boilerplate-project-urlshortener)](https://repl.it/github/nadiemedicejose/boilerplate-project-urlshortener)
+
 Build a full stack JavaScript app that is functionally similar to this: https://url-shortener-microservice.freecodecamp.rocks/. Working on this project will involve you writing your code using one of the following methods:
 
 * Clone [this GitHub repo](https://github.com/freeCodeCamp/boilerplate-project-urlshortener/) and complete your project locally.
